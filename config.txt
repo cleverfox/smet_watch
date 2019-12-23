@@ -1,0 +1,6 @@
+set
+setring 0 10 
+setring 2 50 21 20 21 50 21 100 21
+alarm 5 255 16 55 2
+ring 2
+
